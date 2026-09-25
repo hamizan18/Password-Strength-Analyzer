@@ -78,7 +78,7 @@ Beberapa skenario yang dapat ditangani oleh sistem:
 
 1. **Clone Repo ini**
    ```bash
-   git clone [https://github.com/hamizan18/Password-Strength-Analyzer.git](https://github.com/hamizan18/Password-Strength-Analyzer.git)
+   git clone https://github.com/hamizan18/Password-Strength-Analyzer.git
    ```
 2. Masuk ke dalam folder:
    ```bash
