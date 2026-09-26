@@ -19,7 +19,7 @@ fn main() {
         // Siapin string untuk tampung input dari terminal
         let mut input_nilai = String::new();
         io::stdin().read_line(&mut input_nilai).expect("Gagal baca input");
-        let angka: i32 = input_nilai.trim().parse().expect("Masukkan angka yang valid (-128 sampai 127)!");
+        let angka:i32 = input_nilai.trim().parse().expect("Masukkan angka yang valid (-128 sampai 127)!");
 
         if angka < min {
             min = angka;
