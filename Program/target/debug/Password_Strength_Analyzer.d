@@ -1,1 +1,1 @@
-D:\POLTEK\semester\ 5\eksternals\learns\Password-Strength-Analyzer\Programs\target\debug\Password_Strength_Analyzer.exe: D:\POLTEK\semester\ 5\eksternals\learns\Password-Strength-Analyzer\Programs\src\main.rs
+D:\POLTEK\semester\ 5\eksternals\learns\Password-Strength-Analyzer\Program\target\debug\Password_Strength_Analyzer.exe: D:\POLTEK\semester\ 5\eksternals\learns\Password-Strength-Analyzer\Program\src\main.rs

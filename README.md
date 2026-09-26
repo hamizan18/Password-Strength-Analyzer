@@ -82,6 +82,6 @@ Beberapa skenario yang dapat ditangani oleh sistem:
    ```
 2. Masuk ke dalam folder:
    ```bash
-   cd Password-Strength-Analyzer
+   cd Password-Strength-Analyzer/Program
    ```
 3.
